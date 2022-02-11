@@ -1,0 +1,51 @@
+*, html{
+  margin: 0;
+  padding: 0;
+}
+
+.card_image img {
+   width: 350px;
+   height: auto;
+}
+
+.card_image h1{
+  margin-top: 2%;
+  font-size: 22px;
+  font-family: arial ;
+  text-align: center;
+}
+
+
+.image_2{
+filter: brightness(180%);
+}
+
+
+.image_3{
+filter: blur(3px);
+}
+
+
+.image_4{
+filter: contrast(200%);
+}
+
+.image_5{
+filter: grayscale(80%);
+}
+
+
+
+.image_6{
+filter: hue-rotate(50deg);
+}
+
+
+
+.image_7{
+filter: drop-shadow(10px 10px 10px);
+}
+
+.image_8{
+filter: opacity:0.8%;
+}
